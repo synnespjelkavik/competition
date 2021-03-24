@@ -40,6 +40,6 @@ res.D = y(:,param.nGrid+1:2*param.nGrid);
 res.P = y(:,2*param.nGrid+1:3*param.nGrid);
 res.t = t;
 res.p = param;
-% gjs
+% ff
 % =========================================================================
 end
